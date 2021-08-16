@@ -1,7 +1,6 @@
 from dataclasses import asdict
 from typing import Optional
 
-from aws_clients import dynamo_resource
 from repositories.data.model_record import ModelRecord
 
 MODEL_REGISTRY_TABLE_NAME = "MODEL-REGISTRY"
