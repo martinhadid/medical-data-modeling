@@ -1,4 +1,4 @@
-# Medtronic Project
+# Medical Data Modeling Project
 
 I created this project using obfuscated data from random patients.  
 The offline module includes:
